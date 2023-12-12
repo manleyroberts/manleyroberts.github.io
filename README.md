@@ -1,6 +1,6 @@
 ## Manley Roberts
 
-Hello, I'm Manley. I'm a research scientist at [Abacus.AI](https://abacus.ai/), working on research in (mostly) robustness of modern LLMs. Previously, I completed my MS in Machine Learning at Carnegie Mellon University while conducting research in the [ACMI Lab](https://acmilab.org/), and prior to that my BS in Computer Science at Georgia Tech.
+Hello, I'm Manley. I'm a research scientist at [Abacus.AI](https://abacus.ai/), working on research in (mostly) robustness of modern LLMs. Previously, I completed my MS in Machine Learning at Carnegie Mellon University while conducting research in the [ACMI Lab](https://acmilab.org/). Prior to that, I completed my BS in Computer Science at Georgia Tech.
 
 ### Contact and Links
 
